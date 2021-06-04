@@ -3,4 +3,4 @@
 |이름|학번|GitHubID|E-mail|
 |:---|:---|:---|:---|
 |이유진|2020315028|leeyujin01|oppey7@naver.com|
-
+|이와타마사타카|2020315078|MasatakaIwata|guniwt010105@icloud.com|
